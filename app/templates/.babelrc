@@ -1,0 +1,21 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browers": [
+            "Chrome >= 49"
+          ]
+        }
+      }
+    ],
+    "stage-3",
+    "react"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-class-properties",
+    "transform-runtime"
+  ]
+}

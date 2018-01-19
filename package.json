@@ -1,0 +1,25 @@
+{
+  "name": "generator-fis3-smarty-react-web",
+  "version": "0.1.0",
+  "description": "Scaffold out a front-end fis3-smarty react web project",
+  "license": "MIT",
+  "repository": "lizijie1993/generator-fis3-smarty-react-web",
+  "author": "https://github.com/lizijie1993",
+  "main": "app/index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "web",
+    "front-end",
+    "fis3",
+    "fis3-smarty",
+    "react",
+    "react-router",
+    "react-redux"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.2"
+  }
+}
